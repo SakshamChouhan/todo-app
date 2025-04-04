@@ -132,8 +132,8 @@ server/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/react-redux-typescript-todo-app.git
-   cd react-redux-typescript-todo-app
+   git clone https://github.com/SakshamChouhan/todo-app.git
+   cd todo-app
    ```
 
 2. Install dependencies:
@@ -188,8 +188,9 @@ The application is designed to work across multiple device sizes:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/react-redux-typescript-todo-app.git
-   cd react-redux-typescript-todo-app
+   git clone https://github.com/SakshamChouhan/todo-app.git
+   cd todo-app
+
    ```
 
 2. **Install dependencies**
