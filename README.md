@@ -2,7 +2,7 @@
 
 A modern, full-stack todo application built with React, Redux, TypeScript, and MongoDB. This application features user authentication, complete CRUD operations for todo items, and a responsive UI.
 
-![Todo App Screenshot](https://via.placeholder.com/800x450.png?text=Todo+App+Screenshot)
+![Todo App Screenshot](images/dashboard.png)
 
 ## 📋 Features
 
