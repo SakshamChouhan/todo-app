@@ -81,8 +81,9 @@ export default function Login() {
             {/* Information box */}
             <div className="mt-4 p-3 bg-gray-100 rounded-md">
               <p className="text-xs text-text-secondary mb-1">Information:</p>
-              <p className="text-xs text-text-primary">Please login with your registered email and password</p>
-              <p className="text-xs text-text-primary">Or create a new account using the signup link below</p>
+              <p className="text-xs text-text-primary">Test Credentials: </p>
+              <p className="text-xs text-text-primary">Email: user@example.com</p>
+              <p className="text-xs text-text-primary">Password: mypassword</p>
             </div>
             
             <div className="text-center mt-6">
