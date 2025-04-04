@@ -2,7 +2,7 @@
 
 A modern, full-stack todo application built with React, Redux, TypeScript, and MongoDB. This application features user authentication, complete CRUD operations for todo items, and a responsive UI.
 
-![Todo App Screenshot](https://via.placeholder.com/800x450.png?text=Todo+App+Screenshot)
+![Todo App Screenshot](images/dashboard.png)
 
 ## 📋 Features
 
@@ -132,8 +132,8 @@ server/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/react-redux-typescript-todo-app.git
-   cd react-redux-typescript-todo-app
+   git clone https://github.com/SakshamChouhan/todo-app.git
+   cd todo-app
    ```
 
 2. Install dependencies:
@@ -188,8 +188,9 @@ The application is designed to work across multiple device sizes:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/react-redux-typescript-todo-app.git
-   cd react-redux-typescript-todo-app
+   git clone https://github.com/SakshamChouhan/todo-app.git
+   cd todo-app
+
    ```
 
 2. **Install dependencies**
